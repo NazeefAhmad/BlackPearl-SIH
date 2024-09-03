@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 **Contact Us**
 
-Have questions? Reach out to us at [your email].  
+Have questions? Reach out to us at hacknlackpearl@gmail.com  
 
 ---
 
